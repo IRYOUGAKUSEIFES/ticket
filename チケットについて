@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="utf-8">
+    <title>チケットについて</title>
+    <link rel="stylesheet" href="チケットについてstylesheet.css">
+  </head>
+  <body>
+　　<div class="header">
+    <div class="box25">
+    <div class="header-logo">チケットについて</div>
+   </div>
+    <div class="header-list">
+      <div class="box22">
+      <ul>
+        <li>日程</li>
+        <li>送迎・アクセスについて</li>
+        <li>チケット購入方法</li>
+      </ul>
+    </div>
+   </div>
+   <div class="main">
+     <div class="copy-container"></div>
+     <div class="contents">
+       <div class="contents-item">
+         <div class="box8">
+         <p>日程</p>
+       </div>
+           <ul class="selected">
+             <li>日時：2019年　3月28日（木）～29日（金）</li>
+             <li>
+               <a href="https://www.chiku-bon.jp">場所：ちくちくぼんぼん（旧竹田小中学校）</a>
+             </li>
+             <h6>
+               <img src="IMG_2887.JPG">
+             </h6>
+           </ul>
+       <div class="contents-item">
+         <div class="box8">
+         <p>送迎・アクセス</p>
+         </div>
+           <ul>
+             <h2>＜東京・名古屋発＞</h2>
+             <li>行き：東京駅２８日6：００発⇨名古屋経由(10：30発)⇨現地</li>
+             <li>帰り：現地２９日14：30発⇨名古屋経由（19：00着）⇨東京22：00着予定</li>
+             <li>（名古屋到着時間は交通状況により時間が変更になる場合がございます。）</li>
+          </ul>
+          <ul>
+            <h2>＜大阪発＞</h2>
+            <li>行き：大阪（梅田駅）２８日9：00発⇨現地</li>
+            <li>帰り：現地14：30発⇨大阪（梅田）18：30着</li>
+          </ul>
+          <ul>
+            <h2>＜福井駅からの送迎＞</h2>
+            <li>当日は福井駅〜現地までのシャトルバスが出ております。</li>
+          </ul>
+          <ul>
+            <li>なお、ご自身で行かれる方は上のリンクからご参照ください。</li>
+          </ul>
+       <div class=contents-item>
+         <div class="box8">
+         <p>チケットの種類</p>
+         </div>
+         　<ul>
+           　<h5>＜現地のみのチケット＞</h5>
+             <li>一泊二日のチケット（医療学生のみ）7000円</li>
+             <li>２８日（木）の当日券チケット（全ての方対象）3,000円</li>
+             <li>２９日（金）の当日券チケット（全ての人対象）3,000円</li>
+           </ul>
+           <ul>
+             <h5>＜送迎付きチケット＞</h5>
+             <li>一泊二日のチケット（東京〜福井送迎付き）10,000円</li>
+             <li>一泊二日のチケット（名古屋〜福井送迎付き）9000円</li>
+             <li>一泊二日のチケット（大阪〜福井送迎付き）9000円</li>
+           </ul>
+           <h4>注意！：払い戻し等は一切できませんのでご了承ください。</h4>
+       <div class="box8">
+         <p>購入方法</p>
+       </div>
+        　<h3>
+           <a href="https://iryoufes.peatix.com">こちらのPeatixよりご購入ください。</a>
+          </h3>
+       </div>
+   </div>
+   <div class="footer">
+   </div>
+  </body>
+</html>
